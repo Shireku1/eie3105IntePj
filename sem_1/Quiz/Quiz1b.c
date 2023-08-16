@@ -1,11 +1,4 @@
-/*
- * Quiz1B_20063241D.c
- *
- * Created: 10/10/2022 17:01:15
- * Author : user
- */ 
 
-//Chan Sze Man, 20063241d
 
 /* PD7=switch, LED1=PB0, LED2=PB4*/
 /* timer0 CTC prescaling1024 count25*j_loop25*i_loop25 */
