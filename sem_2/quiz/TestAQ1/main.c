@@ -1,10 +1,3 @@
-/*
- * TestAQ1_20063241d.c
- *
- * Created: 17/2/2023 12:49:35
- * Author : user
- Chan Sze Man 20063241d TAQ1
- */ 
 
 #include <avr/io.h>
 
