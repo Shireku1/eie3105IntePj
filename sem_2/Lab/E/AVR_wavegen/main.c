@@ -2,7 +2,7 @@
  * AVR_wavegen.c
  *
  * Created: 3/2/2023 1:48:50 pm
- * Author : 20063241d
+ * Author : 
  */ 
 
 #include <avr/io.h>
