@@ -1,11 +1,3 @@
-/*
- * Quiz3AQ2_20063241d.c
- *
- * Created: 7/11/2022 17:27:12
- * Author : user
- */ 
-
-//Chan Sze Man 20063241d
 
 
 #include <avr/io.h>
