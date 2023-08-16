@@ -2,7 +2,7 @@
  * lab 2a.c
  *
  * Created: 3/10/2022 3:50:46 pm
- * Author : 20063241d
+ * Author :  
  */ 
 
 #include <avr/io.h>
