@@ -1,11 +1,4 @@
-/*
- * Quiz2AQ2_20063241D.c
- *
- * Created: 24/10/2022 17:10:23
- * Author : user
- */ 
 
-// chan sze man		20063241d
 
 #include <avr/io.h>
 #include <avr/interrupt.h>
