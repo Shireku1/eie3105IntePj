@@ -1,11 +1,4 @@
-/*
- * TestAQ2_20063241d.c
- *
- * Created: 17/2/2023 13:21:46
- * Author : user
- 
- Chan Sze Man 20063241d TAQ2
- */ 
+
 
 #include <avr/io.h>
 #include <avr/interrupt.h>
